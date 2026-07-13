@@ -5,7 +5,6 @@
   "author": {
     "name": "Qianjiazheng"
   },
-  "skills": "./skills/",
   "interface": {
     "displayName": "Codex 追问建议",
     "shortDescription": "在每次回复末尾生成贴合上下文的可能追问。",
